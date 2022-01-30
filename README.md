@@ -1,6 +1,8 @@
 <h3 align="center">Tuner-ReactNative</h3>
-  - 使用ReactNative实现的调音器软件
-  - 支持ios和android
+
+
+- 使用ReactNative实现的调音器软件
+- 支持ios和android
   
 #### 项目启动
   - ```git clone https://github.com/Tourscholar/Tuner-ReactNative.git ```		克隆本仓库到本地
